@@ -1,0 +1,12 @@
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+
+def debjani():
+     x=a+b
+     print(x,"is the sum")
+     
+print(" Hello my name is debjani, I am from Kharagpur")
+print(" I can do sum.....wanna seee???")
+a=int(input("Enter a: ")) 
+b=int(input("Enter b: "))
+debjani()
